@@ -1,6 +1,8 @@
 Mapping of Imagenet and Wikidata for Knowledge Graphs Enabled Computer Vision
 ====
 
+This is the repository for our paper, which is available [here](https://www.researchgate.net/publication/351607486_Mapping_of_ImageNet_and_Wikidata_for_Knowledge_Graphs_Enabled_Computer_Vision).
+
 We linked the ILSVRC 2012 dataset (often simply referred as ImageNet) labels to Wikidata entities.
 
 This enables using rich knowledge graph structure and contextual information for several computer vision tasks, traditionally benchmarked with ImageNet and its variations.
